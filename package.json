@@ -1,0 +1,34 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "a simple CLI",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {
+    "jest": "^26.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaNau/node-calculator.git"
+  },
+  "keywords": [
+    "classes",
+    "npm",
+    "node"
+  ],
+  "author": "Daria Naumova <dariagnaumova@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariaNau/node-calculator/issues"
+  },
+  "homepage": "https://github.com/DariaNau/node-calculator#readme"
+}
