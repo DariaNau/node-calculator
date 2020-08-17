@@ -1,6 +1,7 @@
 const readline = require("readline");
 const Calculator = require("./lib/Calculator");
-const Lexer = require("./lib/Lexer"),
+const Lexer = require("./lib/Lexer");
+
   rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
